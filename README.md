@@ -8,4 +8,3 @@
 
 4. It is not necessary, but we also recommend installing the [Vue.js devtools](https://github.com/vuejs/vue-devtools) for Chrome or Firefox to aid in debugging and development.
 
-# webEngineering_Vue
